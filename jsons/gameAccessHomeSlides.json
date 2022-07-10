@@ -1,7 +1,7 @@
 [
   {
     "name": "Grand Theft Auto V",
-    "image": "https://github.com/regataos/jsons_e_images/blob/c647752ce31519fa60495d1711f66f3423d537a8/images/slide-img1.jpg",
+    "image": "https://raw.githubusercontent.com/regataos/jsons_e_images/c647752ce31519fa60495d1711f66f3423d537a8/images/slide-img1.jpg",
     "texts": {
       "pt_BR": {
         "descText": "Explore o gigantesco e premiado mundo de Los Santos e Blaine County",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Overwatch",
-    "image": "https://github.com/regataos/jsons_e_images/blob/c647752ce31519fa60495d1711f66f3423d537a8/images/slide-img2.jpg",
+    "image": "https://raw.githubusercontent.com/regataos/jsons_e_images/c647752ce31519fa60495d1711f66f3423d537a8/images/slide-img2.jpg",
     "texts": {
       "pt_BR": {
         "descText": "O mundo precisa de heróis",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Battlefield V",
-    "image": "https://github.com/regataos/jsons_e_images/blob/c647752ce31519fa60495d1711f66f3423d537a8/images/slide-img3.jpg",
+    "image": "https://raw.githubusercontent.com/regataos/jsons_e_images/c647752ce31519fa60495d1711f66f3423d537a8/images/slide-img3.jpg",
     "texts": {
       "pt_BR": {
         "descText": "Prove seu valor enfrentando batalhas da Segunda Guerra Mundial",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Control",
-    "image": "https://github.com/regataos/jsons_e_images/blob/c647752ce31519fa60495d1711f66f3423d537a8/images/slide-img4.jpg",
+    "image": "https://raw.githubusercontent.com/regataos/jsons_e_images/c647752ce31519fa60495d1711f66f3423d537a8/images/slide-img4.jpg",
     "texts": {
       "pt_BR": {
         "descText": "O mundo agora é sua arma em uma luta épica contra um inimigo assustador",
