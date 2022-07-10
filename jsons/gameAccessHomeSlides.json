@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Grand Theft Auto V",
+    "image": "https://github.com/regataos/jsons_e_images/blob/c647752ce31519fa60495d1711f66f3423d537a8/images/slide-img1.jpg",
+    "texts": {
+      "pt_BR": {
+        "descText": "Explore o gigantesco e premiado mundo de Los Santos e Blaine County",
+        "buttonText": "Jogue agora com Rockstar Launcher"
+      },
+      "pt_PT": {
+        "descText": "Explore o gigantesco e premiado mundo de Los Santos e Blaine County",
+        "buttonText": "Jogue agora com Rockstar Launcher"
+      },
+      "en_US": {
+        "descText": "Explore the award-winning world of Los Santos and Blaine County",
+        "buttonText": "Play now with Rockstar Launcher"
+      }
+    }
+  },
+  {
+    "name": "Overwatch",
+    "image": "https://github.com/regataos/jsons_e_images/blob/c647752ce31519fa60495d1711f66f3423d537a8/images/slide-img2.jpg",
+    "texts": {
+      "pt_BR": {
+        "descText": "O mundo precisa de heróis",
+        "buttonText": "Jogue agora com Battle.net"
+      },
+      "pt_PT": {
+        "descText": "O mundo precisa de heróis",
+        "buttonText": "Jogue agora com Battle.net"
+      },
+      "en_US": {
+        "descText": "The world needs heroes",
+        "buttonText": "Play now with Battle.net"
+      }
+    }
+  },
+  {
+    "name": "Battlefield V",
+    "image": "https://github.com/regataos/jsons_e_images/blob/c647752ce31519fa60495d1711f66f3423d537a8/images/slide-img3.jpg",
+    "texts": {
+      "pt_BR": {
+        "descText": "Prove seu valor enfrentando batalhas da Segunda Guerra Mundial",
+        "buttonText": "Jogue agora com Origin"
+      },
+      "pt_PT": {
+        "descText": "Prove seu valor enfrentando batalhas da Segunda Guerra Mundial",
+        "buttonText": "Jogue agora com Origin"
+      },
+      "en_US": {
+        "descText": "Prove your worth by fighting WWII battles",
+        "buttonText": "Play now with Origin"
+      }
+    }
+  },
+  {
+    "name": "Control",
+    "image": "https://github.com/regataos/jsons_e_images/blob/c647752ce31519fa60495d1711f66f3423d537a8/images/slide-img4.jpg",
+    "texts": {
+      "pt_BR": {
+        "descText": "O mundo agora é sua arma em uma luta épica contra um inimigo assustador",
+        "buttonText": "Jogue agora com a Epic Games Store"
+      },
+      "pt_PT": {
+        "descText": "O mundo agora é sua arma em uma luta épica contra um inimigo assustador",
+        "buttonText": "Jogue agora com a Epic Games Store"
+      },
+      "en_US": {
+        "descText": "The world is now your weapon in an epic fight against a terrifying enemy",
+        "buttonText": "Play now with the Epic Games Store"
+      }
+    }
+  }
+]
