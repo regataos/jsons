@@ -15,7 +15,8 @@
         "descText": "Explore the award-winning world of Los Santos and Blaine County",
         "buttonText": "Play now with Rockstar Launcher"
       }
-    }
+    },
+    "btnAction": "openRockstar"
   },
   {
     "name": "Overwatch",
@@ -33,7 +34,8 @@
         "descText": "The world needs heroes",
         "buttonText": "Play now with Battle.net"
       }
-    }
+    },
+    "btnAction": "openBattleNet"
   },
   {
     "name": "Battlefield V",
@@ -51,7 +53,8 @@
         "descText": "Prove your worth by fighting WWII battles",
         "buttonText": "Play now with Origin"
       }
-    }
+    },
+    "btnAction": "openOrigin"
   },
   {
     "name": "Control",
@@ -69,6 +72,7 @@
         "descText": "The world is now your weapon in an epic fight against a terrifying enemy",
         "buttonText": "Play now with the Epic Games Store"
       }
-    }
+    },
+    "btnAction": "openEpicGames"
   }
 ]
